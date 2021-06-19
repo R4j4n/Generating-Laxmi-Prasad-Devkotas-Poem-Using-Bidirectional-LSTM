@@ -36,8 +36,8 @@ Lets take a look at one of the input Sequence:
 
 नछाडी जानोस् हे मेरा प्राण
 
-|  Ngram |Sequence of tokens   |   |   |   |
-|---|---|---|---|---|
+|  Ngram |Sequence of tokens   |
+|---|---|
 | नछाडी जानोस्  | [1337, 2623]  |   
 |नछाडी जानोस् हे   | [1337, 2623, 12]  |   
 |नछाडी जानोस् हे मेरा  | [1337, 2623, 12, 39]  |   
@@ -49,5 +49,5 @@ Lets take a look at one of the input Sequence:
 ![alt text](BILSTM_100.png "title")
 
 ## Dataset: 
-```You can find the original dataset ``` [📰📰HERE📰📰](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt)<br>
+```You can find the original dataset ``` [📰📰HERE📰📰](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt)
 ```Download pretrained weight from ```[📦📦HERE📦📦](https://drive.google.com/file/d/1yvqhGUZWWpk3aVsgP2NKBNCwLfRFzSVA/view?usp=sharing)
